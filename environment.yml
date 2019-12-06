@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.9
+  - tierpsy=1.5.1
